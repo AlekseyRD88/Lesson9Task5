@@ -5,9 +5,10 @@
 .header {
    background-color: darkturquoise;
    height: 40px;
-   position: fixed;
+   position: sticky;
    top: 0;
    width: 100%;
+   z-index: 2;
    
 }
 /*.header nav ul {
